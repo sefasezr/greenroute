@@ -1,0 +1,1071 @@
+{
+  "2025-12-19": [
+    {
+      "Mahalle": "19 MAYIS MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "30 AĞUSTOS MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "AKÇALAR MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ALAADİNBEY MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ATLAS MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BADIRGA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BARIŞ MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BAŞKÖY MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BÜYÜKBALIKLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "CUMHURİYET MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÇALI MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÇATALAĞIL MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÇAYLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DUMLUPINAR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ERTUĞRUL MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ESENTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ESENTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "FETHİYE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÖKÇE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÖRÜKLE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÜMÜŞTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "HASANAĞA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "IŞIKTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "İHSANİYE MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "İNEGAZİ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "İRFANİYE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KADRİYE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KARACAOBA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KARAMAN MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KAYAPA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KONAK MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KONAKLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ODUNLUK MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÖZLÜCE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "TAHTALI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÜÇEVLER MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÜÇEVLER MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "ÜÇPINAR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÜRÜNLÜ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "YAYLACIK MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    }
+  ],
+  "2025-12-20": [
+    {
+      "Mahalle": "23 NİSAN MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "AHMET YESEVİ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ALTINŞEHİR MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ATAEVLER MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "AYVAKÖY MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BALAT MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BALKAN MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BEŞEVLER MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÇAMLICA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DAĞYENİCE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DEMİRCİ MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DOĞANKÖY MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DUMLUPINAR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ESENTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "FADILLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "FETHİYE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÖRÜKLE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÜMÜŞTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "GÜNGÖREN MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "HASANAĞA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "İHSANİYE MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KIZILCIKLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KONAK MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KORUBAŞI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KURTULUŞ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KURUÇEŞME MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KÜLTÜR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KÜLTÜR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "MAKSEMPINAR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "MİNARELİÇAVUŞ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "UNÇUKURU MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "YOLÇATI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    }
+  ],
+  "2025-12-21": [
+    {
+      "Mahalle": "DUMLUPINAR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÖRÜKLE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    }
+  ],
+  "2025-12-22": [
+    {
+      "Mahalle": "19 MAYIS MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "30 AĞUSTOS MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "AKÇALAR MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ALAADİNBEY MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ATLAS MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BADIRGA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BARIŞ MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BAŞKÖY MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BÜYÜKBALIKLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "CUMHURİYET MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÇALI MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÇATALAĞIL MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÇAYLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DUMLUPINAR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ERTUĞRUL MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ESENTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ESENTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "FETHİYE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÖKÇE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÖRÜKLE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÜMÜŞTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "HASANAĞA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "IŞIKTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "İHSANİYE MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "İNEGAZİ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "İRFANİYE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KADRİYE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KARACAOBA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KARAMAN MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KAYAPA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KONAK MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KONAKLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ODUNLUK MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÖZLÜCE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "TAHTALI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÜÇEVLER MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÜÇEVLER MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "ÜÇPINAR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÜRÜNLÜ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "YAYLACIK MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    }
+  ],
+  "2025-12-23": [
+    {
+      "Mahalle": "23 NİSAN MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "AHMET YESEVİ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ALTINŞEHİR MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ATAEVLER MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "AYVAKÖY MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BALAT MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BALKAN MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BEŞEVLER MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÇAMLICA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DAĞYENİCE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DEMİRCİ MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DOĞANKÖY MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "FADILLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÜNGÖREN MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "HASANAĞA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KIZILCIKLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KORUBAŞI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KURTULUŞ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KURUÇEŞME MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KÜLTÜR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KÜLTÜR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "MAKSEMPINAR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "MİNARELİÇAVUŞ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "UNÇUKURU MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "YOLÇATI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    }
+  ],
+  "2025-12-24": [
+    {
+      "Mahalle": "19 MAYIS MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "30 AĞUSTOS MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "AKÇALAR MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ALAADİNBEY MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ATLAS MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BADIRGA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BARIŞ MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BAŞKÖY MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BÜYÜKBALIKLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "CUMHURİYET MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÇALI MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÇATALAĞIL MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÇAYLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DUMLUPINAR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ERTUĞRUL MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ESENTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ESENTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "FETHİYE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÖKÇE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÖRÜKLE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÜMÜŞTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "HASANAĞA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "IŞIKTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "İHSANİYE MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "İNEGAZİ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "İRFANİYE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KADRİYE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KARACAOBA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KARAMAN MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KAYAPA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KONAK MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KONAKLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ODUNLUK MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÖZLÜCE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "TAHTALI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÜÇEVLER MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÜÇEVLER MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "ÜÇPINAR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÜRÜNLÜ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "YAYLACIK MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    }
+  ],
+  "2025-12-25": [
+    {
+      "Mahalle": "23 NİSAN MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "AHMET YESEVİ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ALTINŞEHİR MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ATAEVLER MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "AYVAKÖY MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BALAT MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BALKAN MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "BEŞEVLER MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ÇAMLICA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DAĞYENİCE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DEMİRCİ MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DOĞANKÖY MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "DUMLUPINAR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "ESENTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "FADILLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "FETHİYE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÖRÜKLE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "GÜMÜŞTEPE MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "GÜNGÖREN MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "HASANAĞA MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "İHSANİYE MAHALLESİ",
+      "crane_needed": 1,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KIZILCIKLI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KONAK MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KORUBAŞI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KURTULUŞ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KURUÇEŞME MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KÜLTÜR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "KÜLTÜR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Small Garbage Truck"
+    },
+    {
+      "Mahalle": "MAKSEMPINAR MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "MİNARELİÇAVUŞ MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "UNÇUKURU MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    },
+    {
+      "Mahalle": "YOLÇATI MAHALLESİ",
+      "crane_needed": 0,
+      "garbage_truck_type": "Large Garbage Truck"
+    }
+  ]
+}

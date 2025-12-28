@@ -1,0 +1,230 @@
+﻿date,vehicle_id,vehicle_type,Mahalle,demand_score,crane_needed
+2025-12-19,2824,Large Garbage Truck,Gorukle Mh.,1.0,0
+2025-12-19,4657,Crane Vehicle,Cali Mh.,0.7137262835145524,1
+2025-12-19,7912,Small Garbage Truck,Ucevler Mh.,0.6828035790366359,0
+2025-12-19,6574,Small Garbage Truck,Ucevler Mh.,0.6828035790366359,0
+2025-12-19,1409,Large Garbage Truck,Ucevler Mh.,0.6828035790366359,0
+2025-12-19,1409,Large Garbage Truck,Ucevler Mh.,0.6828035790366359,0
+2025-12-19,6514,Small Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-19,5333,Small Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-19,5506,Large Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-19,5506,Large Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-19,4657,Crane Vehicle,Ihsaniye Mh.,0.5410099752796164,1
+2025-12-19,5012,Large Garbage Truck,Dumlupinar Mh.,0.5392034770574226,0
+2025-12-19,5012,Large Garbage Truck,Fethiye Mh.,0.5132512884057444,0
+2025-12-19,3286,Large Garbage Truck,Konak Mh.,0.4687289515176173,0
+2025-12-19,1520,Crane Vehicle,Akcalar Mh.,0.4453968508843078,1
+2025-12-19,3286,Large Garbage Truck,19 Mayis Mh.,0.4296302468560767,0
+2025-12-19,2679,Large Garbage Truck,Ertugrul Mh.,0.4233317347956321,0
+2025-12-19,1520,Crane Vehicle,Baris Mh.,0.4080997581514307,1
+2025-12-19,2679,Large Garbage Truck,Isiktepe Mh.,0.3904709660101533,0
+2025-12-19,9935,Large Garbage Truck,Cumhuriyet Mh.,0.3060217267220619,0
+2025-12-19,6514,Small Garbage Truck,Gumustepe Mh.,0.2742776003758373,0
+2025-12-19,9935,Large Garbage Truck,Yaylacik Mh.,0.2221983729755439,0
+2025-12-19,9935,Large Garbage Truck,Kayapa Mh.,0.2195420473092252,0
+2025-12-19,9935,Large Garbage Truck,Karaman Mh.,0.2134097436145476,0
+2025-12-19,2424,Large Garbage Truck,Ozluce Mh.,0.2071637331873661,0
+2025-12-19,2424,Large Garbage Truck,Urunlu Mh.,0.19524637382572,0
+2025-12-19,2424,Large Garbage Truck,Odunluk Mh.,0.1549739304936958,0
+2025-12-19,5333,Small Garbage Truck,Hasanaga Mh.,0.1376963364062833,0
+2025-12-19,2424,Large Garbage Truck,Buyukbalikli Mh.,0.1342447373607187,0
+2025-12-19,2424,Large Garbage Truck,Gokce Mh.,0.1183849600977331,0
+2025-12-19,1488,Large Garbage Truck,Atlas Mh.,0.1149861712768279,0
+2025-12-19,1488,Large Garbage Truck,Irfaniye Mh.,0.0977176369162517,0
+2025-12-19,1488,Large Garbage Truck,Badirga Mh.,0.0949999504654193,0
+2025-12-19,1488,Large Garbage Truck,Karacaoba Mh.,0.0921311028403266,0
+2025-12-19,1488,Large Garbage Truck,Baskoy Mh.,0.0856330580165026,0
+2025-12-19,1488,Large Garbage Truck,Konakli Mh.,0.0785591071688843,0
+2025-12-19,1488,Large Garbage Truck,Cayli Mh.,0.0764092669475624,0
+2025-12-19,1488,Large Garbage Truck,Tahtali Mh.,0.074666089312811,0
+2025-12-19,1488,Large Garbage Truck,Catalagil Mh.,0.0550405375396522,0
+2025-12-19,1434,Large Garbage Truck,Inegazi̇ Mh.,0.0376557043472374,0
+2025-12-19,1434,Large Garbage Truck,Kadriye Mh.,0.0333507126703768,0
+2025-12-19,1434,Large Garbage Truck,Ucpinar Mh.,0.0268502620180491,0
+2025-12-19,2535,Crane Vehicle,30 Agustos Mh.,0.0,1
+2025-12-19,1434,Large Garbage Truck,Alaaddinbey Mh.,0.0,0
+2025-12-20,2824,Large Garbage Truck,Gorukle Mh.,1.0,0
+2025-12-20,4657,Crane Vehicle,Balat Mh.,0.8427955576149866,1
+2025-12-20,1520,Crane Vehicle,Ataevler Mh.,0.7371619360251879,1
+2025-12-20,1520,Crane Vehicle,Balkan Mh.,0.7327681744354315,1
+2025-12-20,2535,Crane Vehicle,23 Nisan Mh.,0.6506293199795582,1
+2025-12-20,7912,Small Garbage Truck,Kultur Mh.,0.6344961591410876,0
+2025-12-20,1409,Large Garbage Truck,Kultur Mh.,0.6344961591410876,0
+2025-12-20,1409,Large Garbage Truck,Kultur Mh.,0.6344961591410876,0
+2025-12-20,6574,Small Garbage Truck,Kultur Mh.,0.6344961591410876,0
+2025-12-20,6514,Small Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-20,2535,Crane Vehicle,Ihsaniye Mh.,0.5410099752796164,1
+2025-12-20,5506,Large Garbage Truck,Dumlupinar Mh.,0.5392034770574226,0
+2025-12-20,4582,Crane Vehicle,Demi̇rci̇ Mh.,0.5383415719073583,1
+2025-12-20,5506,Large Garbage Truck,Fethiye Mh.,0.5132512884057444,0
+2025-12-20,5012,Large Garbage Truck,Konak Mh.,0.4687289515176173,0
+2025-12-20,5012,Large Garbage Truck,Minarelicavus Mh.,0.3833754682945864,0
+2025-12-20,3286,Large Garbage Truck,Ahmet Yesevi Mh.,0.3401944179723152,0
+2025-12-20,3286,Large Garbage Truck,Camlica Mh.,0.3279556666102943,0
+2025-12-20,5333,Small Garbage Truck,Gumustepe Mh.,0.2742776003758373,0
+2025-12-20,3286,Large Garbage Truck,Kizilcikli Mh.,0.2527762888390717,0
+2025-12-20,2679,Large Garbage Truck,Kurtulus Mh.,0.2491487446301427,0
+2025-12-20,2679,Large Garbage Truck,Dogankoy Mh.,0.138985568603334,0
+2025-12-20,2679,Large Garbage Truck,Dagyenice Mh.,0.1386399038283848,0
+2025-12-20,2679,Large Garbage Truck,Hasanaga Mh.,0.1376963364062833,0
+2025-12-20,2679,Large Garbage Truck,Gungoren Mh.,0.124078572120663,0
+2025-12-20,9935,Large Garbage Truck,Fadilli Mh.,0.1123540475439963,0
+2025-12-20,9935,Large Garbage Truck,Yolcati Mh.,0.1117944195414855,0
+2025-12-20,9935,Large Garbage Truck,Uncukuru Mh.,0.0770792355514275,0
+2025-12-20,4582,Crane Vehicle,Besevler Mh.,0.0735193755718485,1
+2025-12-20,9935,Large Garbage Truck,Korubasi Mh.,0.0653751182631657,0
+2025-12-20,4582,Crane Vehicle,Altinsehir Mh.,0.0576438259169127,1
+2025-12-20,9935,Large Garbage Truck,Ayvakoy Mh.,0.0303214480367227,0
+2025-12-20,9935,Large Garbage Truck,Kurucesme Mh.,0.0247017211099782,0
+2025-12-20,9935,Large Garbage Truck,Maksempinari Mh.,0.0214963669470393,0
+2025-12-21,2824,Large Garbage Truck,Gorukle Mh.,1.0,0
+2025-12-21,1409,Large Garbage Truck,Dumlupinar Mh.,0.5392034770574226,0
+2025-12-22,2824,Large Garbage Truck,Gorukle Mh.,1.0,0
+2025-12-22,4657,Crane Vehicle,Cali Mh.,0.7137262835145524,1
+2025-12-22,7912,Small Garbage Truck,Ucevler Mh.,0.6828035790366359,0
+2025-12-22,6574,Small Garbage Truck,Ucevler Mh.,0.6828035790366359,0
+2025-12-22,1409,Large Garbage Truck,Ucevler Mh.,0.6828035790366359,0
+2025-12-22,1409,Large Garbage Truck,Ucevler Mh.,0.6828035790366359,0
+2025-12-22,6514,Small Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-22,5333,Small Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-22,5506,Large Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-22,5506,Large Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-22,4657,Crane Vehicle,Ihsaniye Mh.,0.5410099752796164,1
+2025-12-22,5012,Large Garbage Truck,Dumlupinar Mh.,0.5392034770574226,0
+2025-12-22,5012,Large Garbage Truck,Fethiye Mh.,0.5132512884057444,0
+2025-12-22,3286,Large Garbage Truck,Konak Mh.,0.4687289515176173,0
+2025-12-22,1520,Crane Vehicle,Akcalar Mh.,0.4453968508843078,1
+2025-12-22,3286,Large Garbage Truck,19 Mayis Mh.,0.4296302468560767,0
+2025-12-22,2679,Large Garbage Truck,Ertugrul Mh.,0.4233317347956321,0
+2025-12-22,1520,Crane Vehicle,Baris Mh.,0.4080997581514307,1
+2025-12-22,2679,Large Garbage Truck,Isiktepe Mh.,0.3904709660101533,0
+2025-12-22,9935,Large Garbage Truck,Cumhuriyet Mh.,0.3060217267220619,0
+2025-12-22,6514,Small Garbage Truck,Gumustepe Mh.,0.2742776003758373,0
+2025-12-22,9935,Large Garbage Truck,Yaylacik Mh.,0.2221983729755439,0
+2025-12-22,9935,Large Garbage Truck,Kayapa Mh.,0.2195420473092252,0
+2025-12-22,9935,Large Garbage Truck,Karaman Mh.,0.2134097436145476,0
+2025-12-22,2424,Large Garbage Truck,Ozluce Mh.,0.2071637331873661,0
+2025-12-22,2424,Large Garbage Truck,Urunlu Mh.,0.19524637382572,0
+2025-12-22,2424,Large Garbage Truck,Odunluk Mh.,0.1549739304936958,0
+2025-12-22,5333,Small Garbage Truck,Hasanaga Mh.,0.1376963364062833,0
+2025-12-22,2424,Large Garbage Truck,Buyukbalikli Mh.,0.1342447373607187,0
+2025-12-22,2424,Large Garbage Truck,Gokce Mh.,0.1183849600977331,0
+2025-12-22,1488,Large Garbage Truck,Atlas Mh.,0.1149861712768279,0
+2025-12-22,1488,Large Garbage Truck,Irfaniye Mh.,0.0977176369162517,0
+2025-12-22,1488,Large Garbage Truck,Badirga Mh.,0.0949999504654193,0
+2025-12-22,1488,Large Garbage Truck,Karacaoba Mh.,0.0921311028403266,0
+2025-12-22,1488,Large Garbage Truck,Baskoy Mh.,0.0856330580165026,0
+2025-12-22,1488,Large Garbage Truck,Konakli Mh.,0.0785591071688843,0
+2025-12-22,1488,Large Garbage Truck,Cayli Mh.,0.0764092669475624,0
+2025-12-22,1488,Large Garbage Truck,Tahtali Mh.,0.074666089312811,0
+2025-12-22,1488,Large Garbage Truck,Catalagil Mh.,0.0550405375396522,0
+2025-12-22,1434,Large Garbage Truck,Inegazi̇ Mh.,0.0376557043472374,0
+2025-12-22,1434,Large Garbage Truck,Kadriye Mh.,0.0333507126703768,0
+2025-12-22,1434,Large Garbage Truck,Ucpinar Mh.,0.0268502620180491,0
+2025-12-22,2535,Crane Vehicle,30 Agustos Mh.,0.0,1
+2025-12-22,1434,Large Garbage Truck,Alaaddinbey Mh.,0.0,0
+2025-12-23,4657,Crane Vehicle,Balat Mh.,0.8427955576149866,1
+2025-12-23,1520,Crane Vehicle,Ataevler Mh.,0.7371619360251879,1
+2025-12-23,1520,Crane Vehicle,Balkan Mh.,0.7327681744354315,1
+2025-12-23,2535,Crane Vehicle,23 Nisan Mh.,0.6506293199795582,1
+2025-12-23,2824,Large Garbage Truck,Kultur Mh.,0.6344961591410876,0
+2025-12-23,7912,Small Garbage Truck,Kultur Mh.,0.6344961591410876,0
+2025-12-23,2824,Large Garbage Truck,Kultur Mh.,0.6344961591410876,0
+2025-12-23,6574,Small Garbage Truck,Kultur Mh.,0.6344961591410876,0
+2025-12-23,2535,Crane Vehicle,Demi̇rci̇ Mh.,0.5383415719073583,1
+2025-12-23,1409,Large Garbage Truck,Minarelicavus Mh.,0.3833754682945864,0
+2025-12-23,1409,Large Garbage Truck,Ahmet Yesevi Mh.,0.3401944179723152,0
+2025-12-23,1409,Large Garbage Truck,Camlica Mh.,0.3279556666102943,0
+2025-12-23,5506,Large Garbage Truck,Kizilcikli Mh.,0.2527762888390717,0
+2025-12-23,5506,Large Garbage Truck,Kurtulus Mh.,0.2491487446301427,0
+2025-12-23,5506,Large Garbage Truck,Dogankoy Mh.,0.138985568603334,0
+2025-12-23,5506,Large Garbage Truck,Dagyenice Mh.,0.1386399038283848,0
+2025-12-23,5012,Large Garbage Truck,Hasanaga Mh.,0.1376963364062833,0
+2025-12-23,5012,Large Garbage Truck,Gungoren Mh.,0.124078572120663,0
+2025-12-23,5012,Large Garbage Truck,Fadilli Mh.,0.1123540475439963,0
+2025-12-23,5012,Large Garbage Truck,Yolcati Mh.,0.1117944195414855,0
+2025-12-23,5012,Large Garbage Truck,Uncukuru Mh.,0.0770792355514275,0
+2025-12-23,4582,Crane Vehicle,Besevler Mh.,0.0735193755718485,1
+2025-12-23,5012,Large Garbage Truck,Korubasi Mh.,0.0653751182631657,0
+2025-12-23,4582,Crane Vehicle,Altinsehir Mh.,0.0576438259169127,1
+2025-12-23,5012,Large Garbage Truck,Ayvakoy Mh.,0.0303214480367227,0
+2025-12-23,5012,Large Garbage Truck,Kurucesme Mh.,0.0247017211099782,0
+2025-12-23,5012,Large Garbage Truck,Maksempinari Mh.,0.0214963669470393,0
+2025-12-24,2824,Large Garbage Truck,Gorukle Mh.,1.0,0
+2025-12-24,4657,Crane Vehicle,Cali Mh.,0.7137262835145524,1
+2025-12-24,7912,Small Garbage Truck,Ucevler Mh.,0.6828035790366359,0
+2025-12-24,6574,Small Garbage Truck,Ucevler Mh.,0.6828035790366359,0
+2025-12-24,1409,Large Garbage Truck,Ucevler Mh.,0.6828035790366359,0
+2025-12-24,1409,Large Garbage Truck,Ucevler Mh.,0.6828035790366359,0
+2025-12-24,6514,Small Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-24,5333,Small Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-24,5506,Large Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-24,5506,Large Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-24,4657,Crane Vehicle,Ihsaniye Mh.,0.5410099752796164,1
+2025-12-24,5012,Large Garbage Truck,Dumlupinar Mh.,0.5392034770574226,0
+2025-12-24,5012,Large Garbage Truck,Fethiye Mh.,0.5132512884057444,0
+2025-12-24,3286,Large Garbage Truck,Konak Mh.,0.4687289515176173,0
+2025-12-24,1520,Crane Vehicle,Akcalar Mh.,0.4453968508843078,1
+2025-12-24,3286,Large Garbage Truck,19 Mayis Mh.,0.4296302468560767,0
+2025-12-24,2679,Large Garbage Truck,Ertugrul Mh.,0.4233317347956321,0
+2025-12-24,1520,Crane Vehicle,Baris Mh.,0.4080997581514307,1
+2025-12-24,2679,Large Garbage Truck,Isiktepe Mh.,0.3904709660101533,0
+2025-12-24,9935,Large Garbage Truck,Cumhuriyet Mh.,0.3060217267220619,0
+2025-12-24,6514,Small Garbage Truck,Gumustepe Mh.,0.2742776003758373,0
+2025-12-24,9935,Large Garbage Truck,Yaylacik Mh.,0.2221983729755439,0
+2025-12-24,9935,Large Garbage Truck,Kayapa Mh.,0.2195420473092252,0
+2025-12-24,9935,Large Garbage Truck,Karaman Mh.,0.2134097436145476,0
+2025-12-24,2424,Large Garbage Truck,Ozluce Mh.,0.2071637331873661,0
+2025-12-24,2424,Large Garbage Truck,Urunlu Mh.,0.19524637382572,0
+2025-12-24,2424,Large Garbage Truck,Odunluk Mh.,0.1549739304936958,0
+2025-12-24,5333,Small Garbage Truck,Hasanaga Mh.,0.1376963364062833,0
+2025-12-24,2424,Large Garbage Truck,Buyukbalikli Mh.,0.1342447373607187,0
+2025-12-24,2424,Large Garbage Truck,Gokce Mh.,0.1183849600977331,0
+2025-12-24,1488,Large Garbage Truck,Atlas Mh.,0.1149861712768279,0
+2025-12-24,1488,Large Garbage Truck,Irfaniye Mh.,0.0977176369162517,0
+2025-12-24,1488,Large Garbage Truck,Badirga Mh.,0.0949999504654193,0
+2025-12-24,1488,Large Garbage Truck,Karacaoba Mh.,0.0921311028403266,0
+2025-12-24,1488,Large Garbage Truck,Baskoy Mh.,0.0856330580165026,0
+2025-12-24,1488,Large Garbage Truck,Konakli Mh.,0.0785591071688843,0
+2025-12-24,1488,Large Garbage Truck,Cayli Mh.,0.0764092669475624,0
+2025-12-24,1488,Large Garbage Truck,Tahtali Mh.,0.074666089312811,0
+2025-12-24,1488,Large Garbage Truck,Catalagil Mh.,0.0550405375396522,0
+2025-12-24,1434,Large Garbage Truck,Inegazi̇ Mh.,0.0376557043472374,0
+2025-12-24,1434,Large Garbage Truck,Kadriye Mh.,0.0333507126703768,0
+2025-12-24,1434,Large Garbage Truck,Ucpinar Mh.,0.0268502620180491,0
+2025-12-24,2535,Crane Vehicle,30 Agustos Mh.,0.0,1
+2025-12-24,1434,Large Garbage Truck,Alaaddinbey Mh.,0.0,0
+2025-12-25,2824,Large Garbage Truck,Gorukle Mh.,1.0,0
+2025-12-25,4657,Crane Vehicle,Balat Mh.,0.8427955576149866,1
+2025-12-25,1520,Crane Vehicle,Ataevler Mh.,0.7371619360251879,1
+2025-12-25,1520,Crane Vehicle,Balkan Mh.,0.7327681744354315,1
+2025-12-25,2535,Crane Vehicle,23 Nisan Mh.,0.6506293199795582,1
+2025-12-25,7912,Small Garbage Truck,Kultur Mh.,0.6344961591410876,0
+2025-12-25,1409,Large Garbage Truck,Kultur Mh.,0.6344961591410876,0
+2025-12-25,1409,Large Garbage Truck,Kultur Mh.,0.6344961591410876,0
+2025-12-25,6574,Small Garbage Truck,Kultur Mh.,0.6344961591410876,0
+2025-12-25,6514,Small Garbage Truck,Esentepe Mh.,0.5986364207955122,0
+2025-12-25,2535,Crane Vehicle,Ihsaniye Mh.,0.5410099752796164,1
+2025-12-25,5506,Large Garbage Truck,Dumlupinar Mh.,0.5392034770574226,0
+2025-12-25,4582,Crane Vehicle,Demi̇rci̇ Mh.,0.5383415719073583,1
+2025-12-25,5506,Large Garbage Truck,Fethiye Mh.,0.5132512884057444,0
+2025-12-25,5012,Large Garbage Truck,Konak Mh.,0.4687289515176173,0
+2025-12-25,5012,Large Garbage Truck,Minarelicavus Mh.,0.3833754682945864,0
+2025-12-25,3286,Large Garbage Truck,Ahmet Yesevi Mh.,0.3401944179723152,0
+2025-12-25,3286,Large Garbage Truck,Camlica Mh.,0.3279556666102943,0
+2025-12-25,5333,Small Garbage Truck,Gumustepe Mh.,0.2742776003758373,0
+2025-12-25,3286,Large Garbage Truck,Kizilcikli Mh.,0.2527762888390717,0
+2025-12-25,2679,Large Garbage Truck,Kurtulus Mh.,0.2491487446301427,0
+2025-12-25,2679,Large Garbage Truck,Dogankoy Mh.,0.138985568603334,0
+2025-12-25,2679,Large Garbage Truck,Dagyenice Mh.,0.1386399038283848,0
+2025-12-25,2679,Large Garbage Truck,Hasanaga Mh.,0.1376963364062833,0
+2025-12-25,2679,Large Garbage Truck,Gungoren Mh.,0.124078572120663,0
+2025-12-25,9935,Large Garbage Truck,Fadilli Mh.,0.1123540475439963,0
+2025-12-25,9935,Large Garbage Truck,Yolcati Mh.,0.1117944195414855,0
+2025-12-25,9935,Large Garbage Truck,Uncukuru Mh.,0.0770792355514275,0
+2025-12-25,4582,Crane Vehicle,Besevler Mh.,0.0735193755718485,1
+2025-12-25,9935,Large Garbage Truck,Korubasi Mh.,0.0653751182631657,0
+2025-12-25,4582,Crane Vehicle,Altinsehir Mh.,0.0576438259169127,1
+2025-12-25,9935,Large Garbage Truck,Ayvakoy Mh.,0.0303214480367227,0
+2025-12-25,9935,Large Garbage Truck,Kurucesme Mh.,0.0247017211099782,0
+2025-12-25,9935,Large Garbage Truck,Maksempinari Mh.,0.0214963669470393,0
