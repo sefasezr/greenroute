@@ -1,0 +1,4 @@
+scope,saved_km,fuel_saved_liters,co2_saved_kg,co2_saved_ton,diesel_co2_kg_per_l,day_default_l_per_km,default_l_per_km_if_unknown
+ALL_DAYS_TOTAL_FROM_DAYCSV,997.63,399.052,1069.46,1.06946,2.68,0.4,
+ALL_DAYS_TOTAL_FROM_VEHICLECSV,1006.037,402.417,1078.482,1.078482,2.68,,0.4
+BY_TYPE:UNKNOWN,1006.037,402.417,1078.482,1.078482,2.68,,

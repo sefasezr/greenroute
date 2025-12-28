@@ -1,0 +1,91 @@
+date,vehicle_id,vehicle_type,stops,total_distance_km
+2025-12-19,1409,Large Garbage Truck,2,0.0
+2025-12-19,1434,Large Garbage Truck,3,16.36
+2025-12-19,1488,Large Garbage Truck,9,72.59
+2025-12-19,1520,Crane Vehicle,2,19.32
+2025-12-19,2424,Large Garbage Truck,5,32.67
+2025-12-19,2679,Large Garbage Truck,2,3.34
+2025-12-19,2824,Large Garbage Truck,1,0.0
+2025-12-19,3286,Large Garbage Truck,2,7.76
+2025-12-19,4657,Crane Vehicle,2,7.86
+2025-12-19,5012,Large Garbage Truck,2,11.63
+2025-12-19,5333,Small Garbage Truck,2,17.75
+2025-12-19,5506,Large Garbage Truck,2,0.0
+2025-12-19,6514,Small Garbage Truck,2,4.25
+2025-12-19,6574,Small Garbage Truck,1,0.0
+2025-12-19,7912,Small Garbage Truck,1,0.0
+2025-12-19,9935,Large Garbage Truck,4,21.43
+2025-12-20,1409,Large Garbage Truck,2,0.0
+2025-12-20,1520,Crane Vehicle,2,12.64
+2025-12-20,2535,Crane Vehicle,2,3.58
+2025-12-20,2679,Large Garbage Truck,5,43.66
+2025-12-20,2824,Large Garbage Truck,1,0.0
+2025-12-20,3286,Large Garbage Truck,3,23.51
+2025-12-20,4582,Crane Vehicle,2,3.78
+2025-12-20,4657,Crane Vehicle,1,0.0
+2025-12-20,5012,Large Garbage Truck,2,5.53
+2025-12-20,5333,Small Garbage Truck,1,0.0
+2025-12-20,5506,Large Garbage Truck,2,11.63
+2025-12-20,6514,Small Garbage Truck,1,0.0
+2025-12-20,6574,Small Garbage Truck,1,0.0
+2025-12-20,7912,Small Garbage Truck,1,0.0
+2025-12-20,9935,Large Garbage Truck,7,44.13
+2025-12-21,1409,Large Garbage Truck,1,0.0
+2025-12-21,2824,Large Garbage Truck,1,0.0
+2025-12-22,1409,Large Garbage Truck,2,0.0
+2025-12-22,1434,Large Garbage Truck,3,16.36
+2025-12-22,1488,Large Garbage Truck,9,72.59
+2025-12-22,1520,Crane Vehicle,2,19.32
+2025-12-22,2424,Large Garbage Truck,5,32.67
+2025-12-22,2679,Large Garbage Truck,2,3.34
+2025-12-22,2824,Large Garbage Truck,1,0.0
+2025-12-22,3286,Large Garbage Truck,2,7.76
+2025-12-22,4657,Crane Vehicle,2,7.86
+2025-12-22,5012,Large Garbage Truck,2,11.63
+2025-12-22,5333,Small Garbage Truck,2,17.75
+2025-12-22,5506,Large Garbage Truck,2,0.0
+2025-12-22,6514,Small Garbage Truck,2,4.25
+2025-12-22,6574,Small Garbage Truck,1,0.0
+2025-12-22,7912,Small Garbage Truck,1,0.0
+2025-12-22,9935,Large Garbage Truck,4,21.43
+2025-12-23,1409,Large Garbage Truck,3,15.33
+2025-12-23,1520,Crane Vehicle,2,12.64
+2025-12-23,2535,Crane Vehicle,1,0.0
+2025-12-23,2824,Large Garbage Truck,2,0.0
+2025-12-23,4582,Crane Vehicle,2,3.78
+2025-12-23,4657,Crane Vehicle,1,0.0
+2025-12-23,5012,Large Garbage Truck,9,62.15
+2025-12-23,5506,Large Garbage Truck,4,26.05
+2025-12-23,6574,Small Garbage Truck,1,0.0
+2025-12-23,7912,Small Garbage Truck,1,0.0
+2025-12-24,1409,Large Garbage Truck,2,0.0
+2025-12-24,1434,Large Garbage Truck,3,16.36
+2025-12-24,1488,Large Garbage Truck,9,72.59
+2025-12-24,1520,Crane Vehicle,2,19.32
+2025-12-24,2424,Large Garbage Truck,5,32.67
+2025-12-24,2679,Large Garbage Truck,2,3.34
+2025-12-24,2824,Large Garbage Truck,1,0.0
+2025-12-24,3286,Large Garbage Truck,2,7.76
+2025-12-24,4657,Crane Vehicle,2,7.86
+2025-12-24,5012,Large Garbage Truck,2,11.63
+2025-12-24,5333,Small Garbage Truck,2,17.75
+2025-12-24,5506,Large Garbage Truck,2,0.0
+2025-12-24,6514,Small Garbage Truck,2,4.25
+2025-12-24,6574,Small Garbage Truck,1,0.0
+2025-12-24,7912,Small Garbage Truck,1,0.0
+2025-12-24,9935,Large Garbage Truck,4,21.43
+2025-12-25,1409,Large Garbage Truck,2,0.0
+2025-12-25,1520,Crane Vehicle,2,12.64
+2025-12-25,2535,Crane Vehicle,2,3.58
+2025-12-25,2679,Large Garbage Truck,5,43.66
+2025-12-25,2824,Large Garbage Truck,1,0.0
+2025-12-25,3286,Large Garbage Truck,3,23.51
+2025-12-25,4582,Crane Vehicle,2,3.78
+2025-12-25,4657,Crane Vehicle,1,0.0
+2025-12-25,5012,Large Garbage Truck,2,5.53
+2025-12-25,5333,Small Garbage Truck,1,0.0
+2025-12-25,5506,Large Garbage Truck,2,11.63
+2025-12-25,6514,Small Garbage Truck,1,0.0
+2025-12-25,6574,Small Garbage Truck,1,0.0
+2025-12-25,7912,Small Garbage Truck,1,0.0
+2025-12-25,9935,Large Garbage Truck,7,44.13
